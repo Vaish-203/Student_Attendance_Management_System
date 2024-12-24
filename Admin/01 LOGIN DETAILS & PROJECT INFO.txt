@@ -1,0 +1,21 @@
+**Log in Details of project!***
+
+**Database Name: attendancemsystem1**
+
+**Developed by C Batch TE ECE**
+
+**Recommended PHP Version 5.6 and Newer**
+
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: Password@123
+
+
+**Teacher Login Details**
+
+Email   : swapnilbangal01@gmail.com
+Password: pass123
+
+**Default password for teacher's account: pass123**
